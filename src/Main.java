@@ -28,10 +28,9 @@ public class Main {
 		
 		//System.out.println(continent.toString());
 		
-		//OHHH UN COMMENTAIRE !
+		//J'AI MODIFIER !
 		
 		System.out.println(continent.getPays("France").getSaCapitale().getNom());
-		System.out.println(pays2.getSaCapitale().getSonPays().getNom());
 		System.out.println(pays1.getLesVilles().get(0).getSonPays().getNom());
 	}
 }
