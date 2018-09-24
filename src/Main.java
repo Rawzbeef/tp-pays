@@ -32,6 +32,7 @@ public class Main {
 		
 		// cc c moi jluc
 		// comment ça t'enlèves mon commentaire è_é
+		// je fait ce que je veut '^' nah !
 		System.out.println(continent.getPays("France").getSaCapitale().getNom());
 		System.out.println(pays1.getLesVilles().get(0).getSonPays().getNom());
 	}
