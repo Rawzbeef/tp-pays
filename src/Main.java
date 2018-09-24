@@ -31,7 +31,6 @@ public class Main {
 		//J'AI MODIFIER ! et là aussi ! '^'
 		
 		// cc c moi jluc
-		// vincent t un pd 
 		System.out.println(continent.getPays("France").getSaCapitale().getNom());
 		System.out.println(pays1.getLesVilles().get(0).getSonPays().getNom());
 	}
